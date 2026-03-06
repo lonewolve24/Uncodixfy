@@ -1,5 +1,9 @@
 # Uncodixify
 
+<p align="center">
+  <img src="images/thumb.jpg" alt="Uncodixify" width="80%">
+</p>
+
 
 GPT is surprisingly bad at UI design.
 
