@@ -42,3 +42,10 @@ Example:
 </p>
 
 Before (Typical GPT UI) | After (Uncodixified)
+
+<p align="center">
+  <img src="images/4.png" width="48%">
+  <img src="images/3.png" width="48%">
+</p>
+
+Before (Typical GPT UI) | After (Uncodixified)
